@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
+int x=9;
 int main(){
-    cout<<"hello ";
+    int y=89;
+    cout<<x<<endl;
+    cout<<y<<endl;
     return 0;
 }
